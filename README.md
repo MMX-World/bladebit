@@ -54,7 +54,7 @@ Optionally install `gmp`:
 ```bash
 
 # Clone the repo & its submodules
-git clone https://github.com/Chia-Network/bladebit.git && cd bladebit
+git clone https://github.com/MMX-World/bladebit.git && cd bladebit
 
 # Create a build directory for cmake and cd into it
 mkdir -p build && cd build
